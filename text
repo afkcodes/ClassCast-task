@@ -1,0 +1,19 @@
+        <div className="training__club">
+          <span className="training__type">Box</span>
+          <span className="training__type_club">Sports Club</span>
+          <span className="training__type_time">10:00</span>
+        </div>
+        <div className="training_warmup">
+          <span className="training_time">40</span>
+          <span className="training_duration">min</span>
+          <span className="training_type">Warm-up</span>
+        </div>
+        <div className="training__action_time">
+          <span className="training_time">20</span>
+          <span className="training_duration">min</span>
+          <span className="training_type">Stretch</span>
+        </div>
+        <div className="more__training">
+          <BsThreeDotsVertical size={35} />
+        </div>
+      </div>

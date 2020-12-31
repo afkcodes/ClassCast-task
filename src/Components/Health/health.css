@@ -1,0 +1,47 @@
+.health__component{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.health__text{
+    font-size: 40px;
+    font-weight: 400;
+}
+.icon__container{
+    height: 40px;
+    width: 40px;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.health__prop{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.health__icon{
+    height: 28px;
+    width: 28px;
+    color: red;
+}
+
+.health__progress_outer{
+    height: 6px;
+    width: 90%;
+    background: #F1F1F1;
+    border-radius: 10px;
+}
+
+.unit__text{
+    color: slategrey;
+    font-size: 20px;
+}

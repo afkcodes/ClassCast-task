@@ -1,0 +1,30 @@
+.user__icon__container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.notification__icon{
+    height: 28px;
+    width: 28px;
+    color: #5D5E70;
+    border: 2px solid #EEF3FE;
+    border-radius: 10px;
+    padding: 8px;
+    cursor: pointer;
+
+}
+
+.settings_icon{
+    height: 28px;
+    width: 28px;
+    color: #5D5E70;
+    border: 2px solid #EEF3FE;
+    border-radius: 10px;
+    padding: 8px;
+    cursor: pointer;
+
+
+}
